@@ -7,7 +7,7 @@
 # Installation
 
 ```
-git clone --recurse-submodules <repo_url>
+git clone --recurse-submodules https://github.com/darrenpmeyer/outlook_url_handler.git 
 cd outlook_url_handler
 cp -rp OutlookURLHandler/OutlookURLHandler.app /Applications
 
